@@ -18,3 +18,6 @@ def multiple3(x, y):
 
 def newfunction(x, y):
     return x*y
+
+def test():
+    return "Heelo"
