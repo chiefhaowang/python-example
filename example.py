@@ -6,12 +6,15 @@ def adding(x, y):
 
 def minus(x, y):
     return x - y
+
 def multiple(x, y):
     return x*y
-
     
 def multiple2(x, y):
     return x*y
 
 def multiple3(x, y):
+    return x*y
+
+def newfunction(x, y):
     return x*y
